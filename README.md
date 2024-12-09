@@ -1,5 +1,3 @@
-Aquí tienes una descripción para tu proyecto **Taskify** en GitHub basada en la imagen proporcionada:
-
 ---
 
 # Taskify
@@ -64,6 +62,3 @@ Aquí tienes una descripción para tu proyecto **Taskify** en GitHub basada en l
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
---- 
-
-¿Te gustaría agregar algo más o modificar algún punto?
